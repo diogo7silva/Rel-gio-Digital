@@ -111,7 +111,7 @@
             // 
             this.segundos.BackColor = System.Drawing.Color.White;
             this.segundos.Font = new System.Drawing.Font("OCR A Extended", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.segundos.Location = new System.Drawing.Point(496, 53);
+            this.segundos.Location = new System.Drawing.Point(568, 53);
             this.segundos.Name = "segundos";
             this.segundos.Size = new System.Drawing.Size(155, 51);
             this.segundos.TabIndex = 5;
@@ -123,7 +123,7 @@
             // 
             this.horas.BackColor = System.Drawing.Color.White;
             this.horas.Font = new System.Drawing.Font("OCR A Extended", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.horas.Location = new System.Drawing.Point(138, 53);
+            this.horas.Location = new System.Drawing.Point(63, 53);
             this.horas.Name = "horas";
             this.horas.Size = new System.Drawing.Size(155, 51);
             this.horas.TabIndex = 4;
